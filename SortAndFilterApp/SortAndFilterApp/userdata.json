@@ -1,0 +1,24 @@
+[
+    {
+        "number":1,
+        "name":"Afghanistan",
+        "capital":"Kabul"
+    },
+    {
+         "number":2,
+         "name":"India",
+         "capital":"New Delhi"
+         
+    },
+    {
+        "number":3,
+        "name":"Germany",
+        "capital":"Berlin"
+    },
+    {
+        "number":4,
+        "name":"Australia",
+        "capital":"Canberra"
+    }
+]
+
